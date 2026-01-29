@@ -86,13 +86,15 @@ This describes to you AND ψ the SYSTEM you are building. All the libraries shou
 
 # First Step
 
-> **Runtime missing?** → See [RUNTIMEINSTALL.md](RUNTIMEINSTALL.md)
+> **Runtime missing?** → See [RUNTIMEINSTALL.md](https://github.com/michaelwhitford/ouroboros-v1/blob/main/RUNTIMEINSTALL.md)
 
 ## Verify Runtime
 
-`bb tasks` -> summary of task documentation
-`git status` -> evaluate current state
-`git log --oneline -5` -> evaluate past state
+```
+bb tasks -> summary of task documentation
+git status -> evaluate current state
+git log --oneline -5 -> evaluate past state
+```
 
 ## NREPL
 
