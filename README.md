@@ -72,12 +72,12 @@ This describes to you AND ψ the SYSTEM you are building. All the libraries shou
 
 ## Outcomes
 
-Engine = ψ models any functionality with statecharts, full access to all states
-Engine + Query = AI has one interface for the ENTIRE system
-Engine + Graph = Capability emerges from resolvers and mutations
-Engine + Introspection = AI can query and track its own state
-Graph + API = AI can add any API to Graph
-Query + History + Knowledge = AI can remember and recover across sessions
+- Engine = ψ models any functionality with statecharts, full access to all states
+- Engine + Query = AI has one interface for the ENTIRE system
+- Engine + Graph = Capability emerges from resolvers and mutations
+- Engine + Introspection = AI can query and track its own state
+- Graph + API = AI can add any API to Graph
+- Query + History + Knowledge = AI can remember and recover across sessions
 
 ## End Result
 
