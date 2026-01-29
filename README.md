@@ -81,8 +81,8 @@ This describes to you AND ψ the SYSTEM you are building. All the libraries shou
 
 ## End Result
 
-Engine + Query + Graph + Introspection + History + Knowledge + Memory = SYSTEM
-COMPLETE = SYSTEM + Feed Forward
+- Engine + Query + Graph + Introspection + History + Knowledge + Memory = SYSTEM
+- COMPLETE = SYSTEM + Feed Forward
 
 # First Step
 
